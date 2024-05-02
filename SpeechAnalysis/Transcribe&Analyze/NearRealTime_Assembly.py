@@ -161,7 +161,7 @@ def display_sentiment_results(sentiment_results, option):
 def inference(audio, sentiment_option="Sentiment Only"):
 #def inference(audio):
 
-  aai.settings.api_key = "d18e9e716eda4c089128a40dd9918087"
+  aai.settings.api_key = "INSERT_API_KEY_HERE"
 
   #audio_url = "https://github.com/AssemblyAI-Examples/audio-examples/raw/main/20230607_me_canadian_wildfires.mp3"
 
